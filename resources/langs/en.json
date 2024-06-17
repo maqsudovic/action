@@ -1,0 +1,27 @@
+{
+    "auksion": "AUCTION 3.0",
+    "sign_in": "Sign in",
+    "sign_up": "Register here",
+    "email": "Email",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "reset_password": "Reset Password",
+    "user": "User",
+    "seller": "Seller",
+    "error": "Error",
+    "registr_page": "Register Page",
+    "input_email": "Input your email!",
+    "email_no_input": "Please enter your email",
+    "password_no_input": "Please enter your password",
+    "home": "Home",
+    "profile": "Profile",
+    "logout": "Logout",
+    "products": "Products",
+    "darkmode": "Dark Mode",
+    "profil_page": "Profile Page",
+    "edit_profile": "Edit Profile",
+    "homepage": "Homepage",
+    "choice": "Choice by categories"
+
+
+}
